@@ -1,0 +1,16 @@
+{
+  "name": "yukki",
+  "author": "Semenov Artem <xxxxxx@yandex-team.ru>",
+  "description": "JavaScript Template Engine",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.12.0",
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-jscs-checker": "~0.1.2",
+    "browserify": "~2.25.0",
+    "grunt-mocha-cov": "0.0.7"
+  },
+  "engine": "node >= 0.10.0"
+}
